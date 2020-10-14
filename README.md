@@ -3,3 +3,6 @@
 
 ## pip
 + pip更新：pip install --upgrade pip
+
+## PIL(Python Image Library)
+
